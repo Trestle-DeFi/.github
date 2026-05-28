@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1. Customized Trestle Banner -->
-  <img src="https://githubusercontent.com" width="100%" alt="Trestle DeFi Banner" />
+  <img src="trestle_github_banner.png" width="100%" alt="Trestle DeFi Banner" />
 
   <br/>
 
